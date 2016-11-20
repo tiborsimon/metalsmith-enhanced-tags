@@ -1,26 +1,27 @@
 {
-  "name": "metalsmith-tags",
-  "version": "2.0.0",
-  "description": "A metalsmith plugin to create dedicated pages for tags in posts or pages.",
+  "name": "metalsmith-enhanced-tags",
+  "version": "1.0.0",
+  "description": "A metalsmith plugin to create dedicated pages for tags in posts or pages. Original plugin: metalsmith-tags.",
   "main": "lib/index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/totocaster/metalsmith-tags"
+    "url": "https://github.com/tiborsimon/metalsmith-enhanced/tags"
   },
   "keywords": [
     "metalsmith",
     "plugin",
+    "enhanced",
     "tags"
   ],
-  "author": "Toto Tvalavadze <toto@totocaster.com>",
+  "author": "Tibor Simon <tibor@tiborsimon.io>, Toto Tvalavadze <toto@totocaster.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/totocaster/metalsmith-tags/issues"
+    "url": "https://github.com/tiborsimon/metalsmith-enhanced-tags/issues"
   },
-  "homepage": "https://github.com/totocaster/metalsmith-tags",
+  "homepage": "https://github.com/tiborsimon/metalsmith-enhanced-tags",
   "devDependencies": {
     "assert-dir-equal": "1.0.1",
     "handlebars": "*",
